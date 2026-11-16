@@ -38,10 +38,13 @@ Consulte os documentos de desenvolvimento:
 - [Automações HubSpot](documentacao/automacoes-hubspot.md)
 - [Segmentação de contatos](documentacao/segmentacao.md)
 - [Indicadores de marketing digital](documentacao/indicadores.md)
+- [Pipeline de oportunidades](pipeline/descricao.md)
 
 ## 6. Resultados e validação
 
 Foram configurados recursos de CRM, segmentação, automação, gestão de oportunidades e relatórios no HubSpot. As evidências e os registros apresentados na documentação permitem acompanhar a estrutura implementada e os dados observados durante a validação.
+
+A captura de tela do pipeline configurado está disponível em [Evidência do Pipeline de Oportunidades](pipeline/04-pipeline-oportunidades.png).
 
 ## 7. Considerações
 
