@@ -32,13 +32,19 @@ O projeto contempla:
 
 ## 5. Documentação técnica
 
-Consulte os documentos de desenvolvimento:
+Consulte os documentos e diagramas utilizados no desenvolvimento do projeto:
 
 - [Metodologia](documentacao/metodologia.md)
 - [Automações HubSpot](documentacao/automacoes-hubspot.md)
 - [Segmentação de contatos](documentacao/segmentacao.md)
 - [Indicadores de marketing digital](documentacao/indicadores.md)
 - [Pipeline de oportunidades](pipeline/descricao.md)
+- [Diagrama da metodologia – Arquivo editável](diagramas/diagrama.drawio)
+- [Diagrama da metodologia – Imagem PNG](diagramas/diagrama.png)
+
+### Diagrama da metodologia
+
+![Diagrama da metodologia do projeto](diagramas/diagrama.png)
 
 ## 6. Evidências da implementação
 
