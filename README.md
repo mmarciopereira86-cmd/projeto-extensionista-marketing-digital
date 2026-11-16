@@ -42,23 +42,39 @@ Consulte os documentos de desenvolvimento:
 
 ## 6. Evidências da implementação
 
-As capturas de tela estão organizadas no repositório para demonstrar as configurações realizadas no HubSpot.
+As capturas de tela estão organizadas no repositório para demonstrar as configurações realizadas no HubSpot, desde a captação de interessados até o acompanhamento das oportunidades e dos indicadores.
 
-### 6.1. Automação HubSpot
+### 6.1. Formulário de captação
+
+O formulário existente no site da Clínica Dra. Luiza Lopes foi utilizado como ponto de entrada para a captação de interessados. Ele contém campos de nome, telefone/WhatsApp, e-mail e mensagem, com integração ao HubSpot.
+
+- [Descrição do formulário](evidencias/formulario/descricao.md)
+- [Formulário de captação do site](evidencias/formulario/06-formulario-captacao-site.png)
+
+### 6.2. Automação HubSpot
+
+Foi configurado um workflow para classificar os contatos recebidos pelo formulário e criar automaticamente uma tarefa de acompanhamento.
 
 - [Workflow – Classificação de contatos](evidencias/workflow/01-workflow-classificacao-de-contatos.png)
 - [Workflow – Criação de tarefa](evidencias/workflow/02-workflow-criacao-tarefa.png)
 
-### 6.2. Segmentação de contatos
+### 6.3. Segmentação de contatos
+
+Foram criadas listas para organizar os contatos de acordo com sua origem, tipo e status.
 
 - [Listas de segmentação](evidencias/segmentacao/03-listas-segmentacao.png)
+- [Documentação da segmentação](documentacao/segmentacao.md)
 
-### 6.3. Pipeline de oportunidades
+### 6.4. Pipeline de oportunidades
+
+Foi estruturado um pipeline para organizar as etapas de atendimento, desde o novo interessado até a realização da avaliação ou a não conversão.
 
 - [Pipeline de oportunidades](pipeline/04-pipeline-oportunidades.png)
 - [Documentação do pipeline](pipeline/descricao.md)
 
-### 6.4. Indicadores de marketing digital
+### 6.5. Indicadores de marketing digital
+
+Foi criado um painel com sete relatórios para acompanhar informações relacionadas aos contatos, origem, status dos leads, oportunidades, negócios e tarefas de acompanhamento.
 
 - [Painel de indicadores – Parte 1](indicadores/05-painel-indicadores-parte-1.png)
 - [Painel de indicadores – Parte 2](indicadores/05-painel-indicadores-parte-2.png)
