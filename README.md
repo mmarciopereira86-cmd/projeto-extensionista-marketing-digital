@@ -40,13 +40,38 @@ Consulte os documentos de desenvolvimento:
 - [Indicadores de marketing digital](documentacao/indicadores.md)
 - [Pipeline de oportunidades](pipeline/descricao.md)
 
-## 6. Resultados e validação
+## 6. Evidências da implementação
+
+As capturas de tela estão organizadas no repositório para demonstrar as configurações realizadas no HubSpot.
+
+### 6.1. Automação HubSpot
+
+- [Workflow – Classificação de contatos](evidencias/workflow/01-workflow-classificacao-de-contatos.png)
+- [Workflow – Criação de tarefa](evidencias/workflow/02-workflow-criacao-tarefa.png)
+
+### 6.2. Segmentação de contatos
+
+- [Listas de segmentação](evidencias/segmentacao/03-listas-segmentacao.png)
+
+### 6.3. Pipeline de oportunidades
+
+- [Pipeline de oportunidades](pipeline/04-pipeline-oportunidades.png)
+- [Documentação do pipeline](pipeline/descricao.md)
+
+### 6.4. Indicadores de marketing digital
+
+- [Painel de indicadores – Parte 1](indicadores/05-painel-indicadores-parte-1.png)
+- [Painel de indicadores – Parte 2](indicadores/05-painel-indicadores-parte-2.png)
+- [Painel de indicadores – Parte 3](indicadores/05-painel-indicadores-parte-3.png)
+- [Painel de indicadores – Parte 4](indicadores/05-painel-indicadores-parte-4.png)
+
+## 7. Resultados e validação
 
 Foram configurados recursos de CRM, segmentação, automação, gestão de oportunidades e relatórios no HubSpot. As evidências e os registros apresentados na documentação permitem acompanhar a estrutura implementada e os dados observados durante a validação.
 
-A captura de tela do pipeline configurado está disponível em [Evidência do Pipeline de Oportunidades](pipeline/04-pipeline-oportunidades.png).
+O painel de indicadores reúne sete relatórios para acompanhar informações relacionadas à captação de contatos, origem, status dos leads, oportunidades, negócios e tarefas de acompanhamento.
 
-## 7. Considerações
+## 8. Considerações
 
 A experiência demonstra como ferramentas de tecnologia da informação podem apoiar a organização de processos de marketing digital, facilitar o acompanhamento de interessados e oferecer informações para apoiar decisões.
 
